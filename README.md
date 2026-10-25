@@ -36,13 +36,13 @@ Modele uczono na danych z `pogodynka_zbilansowana.csv`, a testowano na `pogodynk
 
 ### Macierze Pomyłek
 
-![Confusion Matrix](figures/confusion_matrices.png)
+images/macierz_pomylek_rf.png
 
 ---
 
 ### Feature Importance (XGBoost)
 
-![Feature Importance](figures/feature_importance.png)
+images/waznosc_cech_rf.png
 
 ---
 
